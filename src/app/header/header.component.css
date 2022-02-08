@@ -1,0 +1,19 @@
+/* Header */ 
+header{
+    padding: 20px 0px;
+    text-align: center;
+    background-color: rgb(18 96 62)
+}
+header h1{
+    text-transform: uppercase;
+    color: darkorange;
+    letter-spacing: 3px;
+    
+}
+#madeBy{ 
+    text-transform: capitalize;
+    display: block;
+    color: darkorange;
+    font-weight: normal;
+    
+}
